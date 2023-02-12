@@ -1,1 +1,33 @@
+p {
+    font-size:50px;
+    color:black;
+    text-align:center;
+}
+
+footer p {
+    text-align:right;
+    font-size:25px;
+    background-color: black;
+    color:rgb(27, 177, 144);
+    border-radius:30px;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+main {
+    border-radius:30px;
+}
+
+main p {
+    color: rgb(4, 66, 48);
+}
+.imga{
+    text-align:center;
+}
+main {
+    background-color: blue;
+}
 
